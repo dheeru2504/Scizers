@@ -1,0 +1,23 @@
+body{
+  background-color: white;
+}
+
+
+.backgroundImage {
+    background-image: url('../assets/hero-img.webp');
+    background-size: cover;
+    /* background-position: center; */
+    /* background-repeat: no-repeat;   */
+    
+/* height: 100vh; */
+    /* filter: brightness(50%); */
+
+  }
+
+  .backgroundFilter{
+    background: linear-gradient(to right, #062349, rgba(24, 141, 249, 0.05));
+    opacity: 0.8;
+
+  }
+
+  /************FEATURES***********************/
