@@ -15,8 +15,8 @@ export default function Home() {
       <div className="px-4">
         <Amenities />
         <Gallery />
-        <Footer />
       </div>
+      <Footer />
     </>
   );
 }
